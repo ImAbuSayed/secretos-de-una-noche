@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-una-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Secretos de una noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-noche/) |
+| **Get License** | [Get License For Secretos de una noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7e4b9715971e575963fb5bb845d6e3a77688c0d7b205e82225948d53b78a8093` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
