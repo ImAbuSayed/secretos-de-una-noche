@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Secretos de una noche |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-una-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Secretos de una noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-noche/) |
+| **Get License** | [License this song: Secretos de una noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime si esta noche nos perdemos en la ciudad
-> Tú y yo, baby, sin reglas, buscando la intimidad
-> Esos ojos me dicen que quieres más que amistad
-> Un secreto entre los dos que se vuelve necesidad
+> Baila conmigo hasta el amanecer
+> Tu cuerpo llama y no puedo esconder
+> El fuego que enciende esta noche de placer
+> Secretos de una noche, te voy a conocer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
