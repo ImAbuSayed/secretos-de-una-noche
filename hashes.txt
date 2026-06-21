@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Secretos
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:07:52.189295 | `v1` | `7e4b9715971e575963fb5bb845d6e3a77688c0d7b205e82225948d53b78a8093` | `2961fe10c4543f0d2cf59e612ae0d7d23631fd6a55112c89b8ad78d91cba9265` | `2026-06-22_secretos-de-una-noche-v1.txt` |
+| 2026-06-22T05:25:45.029669 | `v2` | `5bcf3f3a3d5bc21b01581b7f60afe733ee30534d0f1a046b04d9abfe9317575a` | `edf12c932dc6e484ec5374ce8952ac64abc465f634b64e03c81eebe2cc9a65a8` | `2026-06-22_secretos-de-una-noche-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
