@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-una-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Secretos de una noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-noche/) |
+| **Get License** | [Request Licensing for Secretos de una noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3991)
+- [Telegram](https://t.me/AbuSayedMusic/4001)
 
 ---
 
